@@ -1,1 +1,1 @@
-# Rupali-Kavale personal website
+# Rupali-Kavale personal website (inspired by-http://seanhalpin.io/)
