@@ -1,4 +1,7 @@
 # Rupali-Kavale personal website: https://coderquill.github.io/Rupali-Kavale/
 
 
-(inspired by-http://seanhalpin.io/)
+Resources:
+inspired by-http://seanhalpin.io/
+images: pinterest
+
